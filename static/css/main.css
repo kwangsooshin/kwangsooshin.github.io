@@ -12,24 +12,23 @@ body {
     }
   }
 
-.container{
+.container {
     display: flex;
     align-items: center;
     justify-content: center;
     height: inherit;
 }
 
-.item{
+.item {
     max-width: 50%;
     text-align: center;
 }
 
 i.fas
-i.fab{
+i.fab {
     color: #212121;
 }
 
-.social{
-    word-spacing: 5px;
-    
+.social {
+    word-spacing: 10px;
 }
