@@ -2,10 +2,9 @@ html,
 body {
   position: relative;
   height: 100%;
-  background-color: #fff;
+  background-color: #F2F2F2;
   font-family: 'NanumBarunGothic', sans-serif;
   font-size: 21px;
-  /* The html and body elements cannot have any padding or margin. */
 }
 @media (min-width: 768px) {
     html {
