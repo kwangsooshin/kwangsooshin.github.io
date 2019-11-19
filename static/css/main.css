@@ -12,6 +12,11 @@ body {
     }
   }
 
+.container{
+    max-width: 960px;
+    padding-top: 5%;
+}
+
 .social{
     word-spacing: 5%;
 }
