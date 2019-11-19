@@ -24,7 +24,11 @@ body {
     text-align: center;
 }
 
+.fa{
+    color: #212121;
+}
+
 .social{
     word-spacing: 5px;
-    color: #212121;
+    
 }
