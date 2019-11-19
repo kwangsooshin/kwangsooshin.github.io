@@ -1,0 +1,14 @@
+markdown: kramdown
+language: 'ko-kr'
+plugins: [jekyll-feed]
+
+name: 'Kwangsoo Shin'
+description: ""
+
+
+short_url: 'kwangsooshin.github.io'
+baseurl: /
+
+social-email: ksshin@kakao.com
+social-github: kwangsooshin
+social-linkedin: kwangsooshin
