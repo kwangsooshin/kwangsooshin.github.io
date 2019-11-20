@@ -7,7 +7,7 @@ description: ""
 
 
 short_url: 'kwangsooshin.github.io'
-baseurl: /
+base_url: /
 
 social-email: ksshin@kakao.com
 social-github: kwangsooshin
