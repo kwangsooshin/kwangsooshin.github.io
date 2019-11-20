@@ -12,3 +12,8 @@ baseurl: /
 social-email: ksshin@kakao.com
 social-github: kwangsooshin
 social-linkedin: kwangsooshin
+
+defaults:
+  - scope:
+      path: _resume
+      type: resume

@@ -7,28 +7,32 @@ body {
   font-size: 21px;
 }
 @media (min-width: 768px) {
-    html {
-      font-size: 16px;
-    }
+  html {
+    font-size: 16px;
   }
+}
 
 .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: inherit;
 }
 
 .item {
-    max-width: 50%;
-    text-align: center;
+  max-width: 50%;
+  text-align: center;
 }
 
 i.fas,
 i.fab {
-    color: #212121;
+  color: #212121;
 }
 
 .social {
-    word-spacing: 10px;
+  word-spacing: 10px;
+}
+
+.resume {
+  word-spacing: 10px;
 }
