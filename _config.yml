@@ -16,8 +16,4 @@ social-linkedin: kwangsooshin
 collections:
   resume:
     permalink: "/resume/"
-
-defaults:
-  - scope:
-      path: _resume
-      type: resume
+    output: true
