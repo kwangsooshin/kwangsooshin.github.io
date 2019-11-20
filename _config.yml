@@ -13,6 +13,11 @@ social-email: ksshin@kakao.com
 social-github: kwangsooshin
 social-linkedin: kwangsooshin
 
+collections:
+  resume:
+    permalink: "/:collection/:path/"
+    output: true
+
 defaults:
   - scope:
       path: _resume
