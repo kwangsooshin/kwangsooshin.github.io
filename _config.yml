@@ -15,10 +15,4 @@ social-linkedin: kwangsooshin
 
 collections:
   resume:
-    permalink: "/:collection/:path/"
-    output: true
-
-defaults:
-  - scope:
-      path: _resume
-      type: resume
+    permalink: "/resume/"
