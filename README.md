@@ -1,2 +1,2 @@
 # kwangsooshin.github.io
-kwangsooshin.github.io
+<https://kwangsooshin.github.io>
