@@ -1,5 +1,6 @@
 # kwangsooshin.github.io
-<https://kwangsooshin.github.io>
+* main: <https://kwangsooshin.github.io>
+* resume: <https://kwangsooshin.github.io/resume>
 
 ## 보이는 내용
 * mailto
